@@ -1,1 +1,1 @@
-# CodeChef
+Python version 2
